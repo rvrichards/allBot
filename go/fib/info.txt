@@ -1,0 +1,13 @@
+Fib
+
+Not a bot, just to get feet wet with go code.
+Executable takes name from containing directory.
+Executable file: -rwxr-xr-x 1 rob rob 2010304 Jul  5 23:39 fib*
+Directory: /home/rob/projects/bots/allBot/go/fib
+
+To run from command line:
+
+$ ./fib 11
+  89
+
+

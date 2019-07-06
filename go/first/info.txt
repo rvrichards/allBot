@@ -1,0 +1,13 @@
+This is just a first go program to amke sure things are running ok.
+Executable takes name from containing directory.
+
+To run from command line:
+
+To run:
+$ ./first
+	This is a test, home directory
+	This is a new ine
+	This is the end
+
+Reads from file: /home/rob/projects/bots/allBot/go/first/file.txt
+

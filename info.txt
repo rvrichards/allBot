@@ -1,0 +1,23 @@
+Bots go here
+
+Here is the file hierarchy for allBot:
+
+~/projects/bots/allBot$ tree
+.
+├── go
+│   ├── fib
+│   │   ├── fib        - executable
+│   │   ├── fibo.go    - test program, no bot code.
+│   │   └── info.txt
+│   └── first
+│       ├── file.txt   - random text
+│       ├── first      - executable
+│       ├── info.txt   - info
+│       └── reading.go - the go code, no bot stuff yet.
+└── python
+    ├── info.txt
+    ├── one.py
+    ├── photo.py - telegram bot to return a photo when one is given/
+    └── repeat.py - telegram bot to repeat things in telegram depending upon "content_type".
+
+Note that venv/ is in .gitignore at root.
