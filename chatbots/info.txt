@@ -1,0 +1,24 @@
+Jupyter
+-------
+
+Run the server & webpage environment.
+
+$ jupyter notebook
+[I 14:32:00.307 NotebookApp] Serving notebooks from local directory: /home/rob/projects/bots/allBot/chatbots
+The Jupyter Notebook is running at:
+[I 14:32:00.307 NotebookApp] http://localhost:8888/?token=a1df39be08b332f799bab6581312903180387d591d66473f
+
+
+Spacy
+-----
+Industrial-Strength Natural Language Processing - https://spacy.io/
+
+$ python3 -m spacy download en
+	Requirement already satisfied: en_core_web_sm==2.1.0 from https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz#egg=en_core_web_sm==2.1.0 in ./venv/lib/python3.6/site-packages
+	✔ Download and installation successful
+	You can now load the model via spacy.load('en_core_web_sm')
+	✔ Linking successful
+	/home/rob/projects/bots/allBot/chatbots/venv/lib/python3.6/site-packages/en_core_web_sm
+	-->
+	/home/rob/projects/bots/allBot/chatbots/venv/lib/python3.6/site-packages/spacy/data/en
+	You can now load the model via spacy.load('en')
